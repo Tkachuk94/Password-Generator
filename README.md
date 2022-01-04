@@ -23,5 +23,11 @@ reworked CSS
 changed Semantics
 
 ![Image of website](https://github.com/Tkachuk94/Password-Generator/blob/main/images/website2.png)
+https://tkachuk94.github.io/Password-Generator/
+
+I currently have knowledge with HTML5, CSS3 and JavaScript.
+
+How to Reach me: Linkedin || Tkachuk753@gmail.com
+Fun Fact: Over the course of 2 years I have been able to lose over 100lbs all while preparing to under-go a major career change!
 
 https://tkachuk94.github.io/portfolio/
