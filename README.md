@@ -22,6 +22,6 @@ reworked CSS
 
 changed Semantics
 
-![Image of website]()
+![Image of website](https://github.com/Tkachuk94/Password-Generator/blob/main/images/website2.png)
 
 https://tkachuk94.github.io/portfolio/
